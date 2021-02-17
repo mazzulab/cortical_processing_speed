@@ -1,0 +1,2 @@
+# cortical_processing_speed
+This repository is a collection of matlab and python code to reproduce the reproduce the results contained within the manuscript "State-dependent regulation of cortical processing speed via gain modulation". The simulation of the clustered Neural Network is performed in matlab, while the analysis of the Allen Institute Neuropixel dataset is perfomed in python. To run the data analysis, a conda environment is provided for ease of use. 
